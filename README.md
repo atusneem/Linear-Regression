@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear Regression using Scikit Learn and from Scratch
+Templates for Linear Regression using Scikit Learn and from Scratch
